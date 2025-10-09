@@ -1,0 +1,66 @@
+Required images for the services page:
+
+1. air-freight.jpg
+   - Description: FedEx or similar cargo aircraft on runway
+   - Recommended size: 800x600px
+   - Location: /public/images/services/air-freight.jpg
+
+2. ocean-freight.jpg
+   - Description: Aerial view of container ship with colorful containers
+   - Recommended size: 800x600px
+   - Location: /public/images/services/ocean-freight.jpg
+
+3. transportation.jpg
+   - Description: Composite image showing multiple transport modes (ship, train, truck)
+   - Recommended size: 800x600px
+   - Location: /public/images/services/transportation.jpg
+
+4. custom-clearance.jpg
+   - Description: Two professionals reviewing customs documents near containers
+   - Recommended size: 800x600px
+   - Location: /public/images/services/custom-clearance.jpg
+
+5. break-bulk.jpg
+   - Description: Loading/unloading operation of non-containerized cargo
+   - Recommended size: 800x600px
+   - Location: /public/images/services/break-bulk.jpg
+
+6. warehouse.jpg
+   - Description: Modern warehouse interior with forklift and stacked goods
+   - Recommended size: 800x600px
+   - Location: /public/images/services/warehouse.jpg
+
+7. special-equipment.jpg
+   - Description: Heavy equipment transport on road
+   - Recommended size: 800x600px
+   - Location: /public/images/services/special-equipment.jpg
+
+8. project-cargo.jpg
+   - Description: Long train carrying specialized project cargo
+   - Recommended size: 800x600px
+   - Location: /public/images/services/project-cargo.jpg
+
+9. door-to-door.jpg
+   - Description: Delivery person with package at doorstep
+   - Recommended size: 800x600px
+   - Location: /public/images/services/door-to-door.jpg
+
+Image Requirements:
+- All images should be optimized for web (compressed while maintaining quality)
+- Recommended format: JPG for photos
+- Maximum file size: 300KB per image
+- Images should be professional and high-quality
+- Color scheme should align with the company's blue theme
+
+Free Image Sources:
+1. Unsplash (https://unsplash.com)
+2. Pexels (https://www.pexels.com)
+3. Pixabay (https://pixabay.com)
+
+After downloading images:
+1. Resize to recommended dimensions (800x600px)
+2. Optimize using tools like:
+   - TinyPNG (https://tinypng.com/)
+   - Squoosh (https://squoosh.app/)
+3. Rename according to the specified filenames
+4. Place in the /public/images/services/ directory 

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f5f5f5"/>
+  <g transform="translate(200, 150)">
+    <!-- House -->
+    <rect x="100" y="200" width="200" height="150" fill="#1a237e"/>
+    <path d="M100,200 L200,100 L300,200 Z" fill="#0277bd"/>
+    <!-- Door -->
+    <rect x="180" y="250" width="40" height="100" fill="#00838f"/>
+    <!-- Delivery truck -->
+    <rect x="400" y="200" width="200" height="100" fill="#1a237e"/>
+    <rect x="450" y="150" width="100" height="50" fill="#0277bd"/>
+    <!-- Wheels -->
+    <circle cx="450" cy="300" r="20" fill="#00838f"/>
+    <circle cx="550" cy="300" r="20" fill="#00838f"/>
+  </g>
+</svg> 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="400" viewBox="0 0 1000 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Container Body -->
+  <rect x="50" y="50" width="900" height="300" fill="#ffffff" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Container Door -->
+  <line x1="850" y1="50" x2="850" y2="350" stroke="#000000" stroke-width="2"/>
+  <line x1="860" y1="50" x2="860" y2="350" stroke="#000000" stroke-width="2"/>
+  
+  <!-- Container Ridges -->
+  <g stroke="#cccccc" stroke-width="1">
+    <line x1="150" y1="50" x2="150" y2="350"/>
+    <line x1="250" y1="50" x2="250" y2="350"/>
+    <line x1="350" y1="50" x2="350" y2="350"/>
+    <line x1="450" y1="50" x2="450" y2="350"/>
+    <line x1="550" y1="50" x2="550" y2="350"/>
+    <line x1="650" y1="50" x2="650" y2="350"/>
+    <line x1="750" y1="50" x2="750" y2="350"/>
+  </g>
+  
+  <!-- Dimensions -->
+  <g fill="#000000" font-family="Arial" font-size="14">
+    <text x="450" y="30">Length: 12.03m (39'6")</text>
+    <text x="960" y="200" transform="rotate(90 960,200)">Height: 2.39m (7'10")</text>
+    <text x="450" y="380">Width: 2.35m (7'9")</text>
+  </g>
+  
+  <!-- Container Number -->
+  <text x="100" y="200" fill="#000000" font-family="Arial" font-size="24" font-weight="bold">40' STANDARD</text>
+</svg> 

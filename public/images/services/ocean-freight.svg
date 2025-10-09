@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f5f5f5"/>
+  <g transform="translate(200, 200)">
+    <!-- Ocean waves -->
+    <path d="M0,300 Q100,250 200,300 T400,300 T600,300" stroke="#0277bd" fill="none" stroke-width="5"/>
+    <path d="M0,350 Q100,300 200,350 T400,350 T600,350" stroke="#0277bd" fill="none" stroke-width="5"/>
+    <!-- Cargo ship -->
+    <rect x="100" y="200" width="300" height="100" fill="#1a237e"/>
+    <rect x="150" y="150" width="200" height="50" fill="#00838f"/>
+    <!-- Cargo containers -->
+    <rect x="200" y="250" width="80" height="60" fill="#1a237e"/>
+    <rect x="300" y="250" width="80" height="60" fill="#0277bd"/>
+  </g>
+</svg> 

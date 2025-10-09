@@ -1,0 +1,41 @@
+Required images for the home page:
+
+1. hero-bg.jpg
+   - Description: Large, high-quality image of a container terminal or shipping port for the hero section
+   - Recommended size: 1920x1080px
+   - Location: /public/images/home/hero-bg.jpg
+
+2. container-aerial.jpg
+   - Description: Aerial view of a container terminal for the welcome section
+   - Recommended size: 1600x900px
+   - Location: /public/images/home/container-aerial.jpg
+
+3. cargo-ship.jpg
+   - Description: High-quality image of a cargo ship for the services section
+   - Recommended size: 1200x800px
+   - Location: /public/images/home/cargo-ship.jpg
+
+4. containers-stacked.jpg
+   - Description: Image of stacked containers for the "Why Choose Us" section
+   - Recommended size: 1200x800px
+   - Location: /public/images/home/containers-stacked.jpg
+
+Image Requirements:
+- All images should be optimized for web (compressed while maintaining quality)
+- Recommended format: JPG for photos
+- Maximum file size: 500KB per image
+- Images should be professional and high-quality
+- Color scheme should align with the company's blue theme
+
+Free Image Sources:
+1. Unsplash (https://unsplash.com/s/photos/container-ship)
+2. Pexels (https://www.pexels.com/search/container%20terminal/)
+3. Pixabay (https://pixabay.com/images/search/container%20ship/)
+
+After downloading images:
+1. Resize to recommended dimensions
+2. Optimize using tools like:
+   - TinyPNG (https://tinypng.com/)
+   - Squoosh (https://squoosh.app/)
+3. Rename according to the specified filenames
+4. Place in the /public/images/home/ directory 

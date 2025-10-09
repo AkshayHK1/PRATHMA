@@ -1,0 +1,19 @@
+Please add the following images to this directory:
+
+1. container-yard.jpg - A wide shot of a container yard (for hero section)
+2. container-aerial.jpg - Aerial view of container terminal
+3. cargo-ship.jpg - Large cargo ship at dock with containers
+4. containers-stacked.jpg - Colorful stacked containers
+5. logo.png - The Prathama Logistics & Shipping Line logo
+
+You can find similar images from:
+- Unsplash (https://unsplash.com)
+- Pexels (https://pexels.com)
+- Pixabay (https://pixabay.com)
+
+Recommended image sizes:
+- Hero image (container-yard.jpg): 1920x1080px
+- Section images: 800x600px
+- Logo: 200x80px
+
+Please optimize all images for web use before adding them to the project. 

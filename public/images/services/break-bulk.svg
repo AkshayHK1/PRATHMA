@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#f5f5f5"/>
+  <g transform="translate(200, 150)">
+    <!-- Cargo items -->
+    <rect x="100" y="200" width="80" height="60" fill="#1a237e"/>
+    <rect x="200" y="200" width="80" height="60" fill="#0277bd"/>
+    <rect x="300" y="200" width="80" height="60" fill="#00838f"/>
+    <rect x="400" y="200" width="80" height="60" fill="#1a237e"/>
+    <!-- Crane -->
+    <rect x="250" y="100" width="20" height="100" fill="#1a237e"/>
+    <rect x="200" y="100" width="120" height="20" fill="#0277bd"/>
+    <!-- Hook -->
+    <path d="M260,200 L260,220 L270,220 L270,200 Z" fill="#00838f"/>
+  </g>
+</svg> 

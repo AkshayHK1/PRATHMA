@@ -1,0 +1,13 @@
+Please add the following images to this directory:
+
+1. air-freight.jpg - An image of an airplane or air cargo
+2. ocean-freight.jpg - An image of a cargo ship or container vessel
+3. customs.jpg - An image representing customs clearance
+4. hero-bg.jpg - A wide banner image showing logistics/shipping operations
+
+You can get free images from:
+- Unsplash (https://unsplash.com)
+- Pexels (https://pexels.com)
+- Pixabay (https://pixabay.com)
+
+Make sure to optimize the images for web use (compress them) before adding them to the project. 
